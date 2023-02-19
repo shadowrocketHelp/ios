@@ -1,2 +1,3 @@
-# shadowrocket.github.io
-shadowrocket小火箭苹果appleid账号免费下载共享ssr/v2ray/trojan
+# Shadowrocket小火箭在线安装
+
+https://shadowsockshelp.github.io/ios/
